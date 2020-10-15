@@ -115,16 +115,6 @@ public class DtLoginScreen  extends ScreenBase {
    	   click.get(9).click();
        }*/
        
-      /**
-       * SELECT LANGUAGES CLICK BUTTON
-       */
-      
-       public void selectLanguages() {
-    	   Spinner.click();
-       }
-       
-         
-       
     
     /**Validate my login successful or not
      * 
